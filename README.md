@@ -3,4 +3,4 @@
 1. 2D игра на движке Unity/Visionaire Studio/Rage engine
 2. Рисование графики - Paint Tool Sai 2, Adobe Photoshop, Moho Animation
 3. Рисование кат-сцен - Moho Animation
-4. Код на C++/Python
+4. Код на C# и C++
